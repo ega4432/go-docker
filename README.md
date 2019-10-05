@@ -1,6 +1,6 @@
 # go-docker
 
-<img alt="gopher-docker" src="https://miro.medium.com/max/4128/1*CO20-3P183ZAqrsJlF7n_A.png">
+<img alt="gopher-docker" src="https://miro.medium.com/max/4128/1*CO20-3P183ZAqrsJlF7n_A.png" width="350">
 
 ## Overview
 
